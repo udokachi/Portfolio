@@ -1,5 +1,6 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import foodapp from '../assets/projects/foodapp.jpeg'
+import weather from '../assets/projects/weather.jpeg'
 
 export const data=[
     {
@@ -11,10 +12,10 @@ export const data=[
     },
     {
         id:2,
-        name:"CoubianLuch",
+        name:"CoubianLunch",
         image:foodapp,
         github:"https://github.com/udokachi/foodappmine",
-        live:"https://coubianlunch.netlify.app/",
+        live:"https://foodorderring.netlify.app/",
     },
     {
         id:3,
@@ -23,13 +24,13 @@ export const data=[
         github:"https://github.com/udokachi/HangerTv",
         live:"https://HangerTv.netlify.app/",
     },
-    // {
-    //     id:4,
-    //     name:"React JS Application",
-    //     image:WorkIm,
-    //     github:"",
-    //     live:"",
-    // },
+    {
+        id:4,
+        name:"Weather",
+        image:weather,
+        github:"https://github.com/udokachi/weatherApp",
+        live:"https://weather-app-5xsa.vercel.app/",
+    },
 
 
 ]
