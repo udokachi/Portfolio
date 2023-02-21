@@ -8,7 +8,7 @@ export const data=[
         name:"Smooze",
         image:WorkIm,
         github:"https://github.com/udokachi/Smooze",
-        live:"https://smooze.netlify.app/",
+        live:"https://smoozepro.netlify.app/",
     },
     {
         id:2,
@@ -17,15 +17,9 @@ export const data=[
         github:"https://github.com/udokachi/foodappmine",
         live:"https://foodorderring.netlify.app/",
     },
+    
     {
         id:3,
-        name:"HangerTv",
-        image:WorkIm,
-        github:"https://github.com/udokachi/HangerTv",
-        live:"https://HangerTv.netlify.app/",
-    },
-    {
-        id:4,
         name:"Weather",
         image:weather,
         github:"https://github.com/udokachi/weatherApp",
